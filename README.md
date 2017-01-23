@@ -2,6 +2,21 @@
 
 # FEATURES:
 - Added Admin Panel
+- Added Cookie Manager
+- Added BlockScript Support
+- Added 2 Themes (Boostrap, Default)
+- Added Support To ytimg.com,msn.com,youtube.com,google.com,yahoo.com,index,hotmail.com,twitter.com,facebook.com,myspace.com,live.com
+- Added TMP Directry
+- Clean code
+- Added GZIP Support Compression
+- Added SSL Warning
+- Added Override Native JavaScript
+- Added URL Encoding
+- Added LOGS
+- Added Whitelist And Blacklist
+- Added IP Bans
+- Added Cookies Encode
+- Added Support To Any Host/Web Page!
 
 
 # What Is Web2Vpn?
