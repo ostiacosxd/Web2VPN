@@ -5,5 +5,5 @@
 *
 * Use of Web2VPN is subject to the terms of the Software License Agreement.
 ******************************************************************/
-header('Location: ../index.php');
+header('Location: /../../index.php');
 ?>
