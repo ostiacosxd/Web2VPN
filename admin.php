@@ -1409,12 +1409,9 @@ OUT;
 		<ul class="green">
 			<li>Control Panel version: <b>{$acpVersion}</b></li>
 			<li>Web2VPN version: <b>{$proxyVersion}</b></li>
-			<li>Latest version: <span class="bold" id="current-version">1.0</span></li>
 		</ul>
 OUT;
 
-		# Is the settings file up to date?
-		function forCompare($val) { return str_replace(' ', '', $val); }
 
 
 		# Add footer links
