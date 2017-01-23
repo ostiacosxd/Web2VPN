@@ -30,7 +30,7 @@ $CONFIG['enable_blockscript'] = false;
 
 # Theme/skin to use. This should be the name of the appropriate
 # folder inside the /themes/ folder.
-$CONFIG['theme'] = 'default';
+$CONFIG['theme'] = 'BootStrap';
 
 # Run plugins on these websites
 $CONFIG['plugins'] = 'facebook.com,google.com,hotmail.com,live.com,msn.com,myspace.com,twitter.com,yahoo.com,youtube.com,ytimg.com';
