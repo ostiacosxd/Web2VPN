@@ -1,5 +1,9 @@
 # Web2VPN
 
+# FEATURES:
+- Added Admin Panel
+
+
 # What Is Web2Vpn?
 - Web2VPN, Is a free project and open source, Allow To Owner Of Website, to Host your own proxy / vpn service easily, And many more things that you will love
 
@@ -11,6 +15,3 @@
 
 # How to get updates?
 - Donate To BitCoin: 1KyCDyhujwc7NQ3vMDUziXbq1jz4SwJmu3 Or Paypal: Paypal@IHoster.us
-
-# It is safe?
-- This is so certain, that you will see the results
