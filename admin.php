@@ -39,7 +39,7 @@ ini_set('display_errors', 1);
 define('ADMIN_URI', $_SERVER['PHP_SELF']);
 
 # Define the current admin version
-define('ADMIN_VERSION', '1.4.15');
+define('ADMIN_VERSION', '1.0');
 
 # Start buffering
 ob_start();
@@ -1409,20 +1409,16 @@ OUT;
 		<ul class="green">
 			<li>Control Panel version: <b>{$acpVersion}</b></li>
 			<li>Web2VPN version: <b>{$proxyVersion}</b></li>
-			<li>Latest version: <span class="bold" id="current-version">unknown</span></li>
+			<li>Latest version: <span class="bold" id="current-version">1.0</span></li>
 		</ul>
 OUT;
 
 		# Is the settings file up to date?
 		function forCompare($val) { return str_replace(' ', '', $val); }
 
-		if ( $proxyVersion != 'unknown - pre 1.0' && version_compare(forCompare($acpVersion), forCompare($proxyVersion), '>') ) {
-			echo "<p><span class=\"bold error-color\">Note:</span> Your settings file needs updating. Use the <a href=\"{$self}?settings\">Edit Settings</a> page and click Update.</p>";
-		}
-
 
 		# Add footer links
-		$output->addFooterLinks('Web2VPN support forum at Proxy.org', 'http://proxy.org/forum/Web2VPN-proxy/');
+		$output->addFooterLinks('Web2VPN support at ihoster.us', 'http://ihoster.us');
 
 		break;
 
