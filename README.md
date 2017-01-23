@@ -30,3 +30,6 @@
 
 # How to get updates?
 - Donate To BitCoin: 1KyCDyhujwc7NQ3vMDUziXbq1jz4SwJmu3 Or Paypal: Paypal@IHoster.us
+
+# Creators && Helpers
+- Cuidabrutos (Owner And Deployer General)
