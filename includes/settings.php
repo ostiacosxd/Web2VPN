@@ -268,4 +268,3 @@ $CONFIG['version'] = '1.4.15';
 // Anything below this line will be preserved when the admin control panel rewrites
 // the settings. Useful for storing settings that don't/can't be changed from the control panel
 
-$adminDetails['cuida'] = 'bba55f5674025ee45e8ee08f03aefa31';
